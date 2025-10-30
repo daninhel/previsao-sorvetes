@@ -4,22 +4,22 @@ Projeto para prever vendas de sorvete com base na temperatura usando Machine Lea
 
 ## Estrutura
 
+```
 previsao-sorvetes/
 
 ├── inputs/
 │   └── dados.txt
-
 ├── notebooks/
 │   └── modelo_sorvete.ipynb
-
 ├── src/
 │   ├── train_model.py
 │   ├── predict.py
 │   └── pipeline.py
-
 ├── README.md
 ├── requirements.txt
 └── mlruns/  ← gerado automaticamente pelo MLflow
+```
+
 
 ## Como rodar (Windows / PowerShell)
 
