@@ -59,4 +59,3 @@ python src\predict.py --run_id <run_id> --temperatura 30
 
 ## Observações
 - O dataset é fictício e pequeno; serve para demonstração e testes locais.
-- Próximos passos: testar outros modelos (RandomForest), adicionar validação cruzada e salvar artefatos (plots, métricas).
